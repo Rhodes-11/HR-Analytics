@@ -1,0 +1,20 @@
+HR Analytics - Predicting Employee Attrition
+
+Introduction:
+Employee attrition is a critical challenge faced by organizations. This project aims to identify the key factors contributing to employee attrition and build a predictive model.
+
+Abstract:
+Using a dataset with employee attributes such as department, job role, satisfaction level, and income, we performed EDA and built machine learning models to predict attrition. Logistic Regression and Decision Tree models were implemented.
+
+Tools Used:
+Python, Scikit-learn, Pandas, Seaborn, Power BI
+
+Steps Involved:
+1. Data Cleaning and Preprocessing
+2. Exploratory Data Analysis
+3. Model Building using Logistic Regression & Decision Tree
+4. Model Evaluation using Confusion Matrix and Accuracy
+5. Attrition Insight Dashboard in Power BI
+
+Conclusion:
+The Logistic Regression model achieved ~83% accuracy. Key drivers of attrition were low job satisfaction, fewer promotions, and long working hours. The Power BI dashboard visualizes attrition by department, job role, and income band.
